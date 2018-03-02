@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A Concordance theme extracted from Ava",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": ["dist"],
   "repository": "https://github.com/kasperisager/concordance-theme-ava",
   "author": "Kasper Isager <kasperisager@gmail.com>",
