@@ -1,0 +1,20 @@
+{
+  "name": "concordance-theme-ava",
+  "version": "1.0.0",
+  "description": "A Concordance theme extracted from Ava",
+  "main": "dist/index.js",
+  "repository": "https://github.com/kasperisager/concordance-theme-ava",
+  "author": "Kasper Isager <kasperisager@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "^9.4.6",
+    "ansi-styles": "^3.2.1",
+    "chalk": "^2.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
+}
